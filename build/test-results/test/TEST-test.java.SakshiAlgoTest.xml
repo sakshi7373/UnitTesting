@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.SakshiAlgoTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2018-10-22T08:00:09" hostname="WIN-C7EGVAKEV7V" time="0.02">
+  <properties/>
+  <testcase name="testMergeEmptyarray" classname="test.java.SakshiAlgoTest" time="0.009"/>
+  <testcase name="testHeapEmptyItem" classname="test.java.SakshiAlgoTest" time="0.0"/>
+  <testcase name="testingHeapsort" classname="test.java.SakshiAlgoTest" time="0.003"/>
+  <testcase name="testSelectionEmptyarray" classname="test.java.SakshiAlgoTest" time="0.0"/>
+  <testcase name="testingInsertionsort" classname="test.java.SakshiAlgoTest" time="0.0"/>
+  <testcase name="testQuickEmptyarray" classname="test.java.SakshiAlgoTest" time="0.0"/>
+  <testcase name="testBubbleEmptyarray" classname="test.java.SakshiAlgoTest" time="0.002"/>
+  <testcase name="sakshigautamBubblesort" classname="test.java.SakshiAlgoTest" time="0.0"/>
+  <testcase name="testInsertionEmptyarray" classname="test.java.SakshiAlgoTest" time="0.0"/>
+  <testcase name="testingSelectionsort" classname="test.java.SakshiAlgoTest" time="0.0"/>
+  <testcase name="testingQuicksort" classname="test.java.SakshiAlgoTest" time="0.0"/>
+  <testcase name="testingMergesort" classname="test.java.SakshiAlgoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
